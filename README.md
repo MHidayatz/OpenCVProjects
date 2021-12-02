@@ -1,0 +1,2 @@
+# OpenCVProjects
+Store all OpenCVProjects
