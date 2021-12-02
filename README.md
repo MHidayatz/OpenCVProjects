@@ -1,7 +1,7 @@
 # OpenCVProjects
 Store all OpenCVProjects
 
-### Automatic Number Plate Recognition
+### 1. Automatic Number Plate Recognition
 <hr>
 </hr>
 
