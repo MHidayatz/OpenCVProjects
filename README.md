@@ -1,9 +1,14 @@
 # OpenCVProjects
 Store all OpenCVProjects
 
-| Number  	|   	|
-|---------	|---	|
-|   ------	|   	|
+| Number |  Notebook 	|
+|--------- |---	|
+| 00 | Automatic Number Plate Recognition |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 ### 1. Automatic Number Plate Recognition
