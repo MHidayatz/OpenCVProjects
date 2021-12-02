@@ -1,11 +1,10 @@
 # OpenCVProjects
 Store all OpenCVProjects
 
-|   	|   	|
-|---	|---	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+| Number  	|   	|
+|---------	|---	|
+|   ------	|   	|
+
 
 ### 1. Automatic Number Plate Recognition
 <hr>
