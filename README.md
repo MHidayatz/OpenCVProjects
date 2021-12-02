@@ -1,9 +1,17 @@
 # OpenCVProjects
 Store all OpenCVProjects
 
+|   	|   	|
+|---	|---	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+
 ### 1. Automatic Number Plate Recognition
 <hr>
 </hr>
 
 - This project is my first attempt at OpenCV with the guidance of [
 Nicholas Renotte](https://www.youtube.com/watch?v=0-4p_QgrdbE&t=6252s&ab_channel=NicholasRenotte) 
+
+
