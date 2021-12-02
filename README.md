@@ -3,12 +3,9 @@ Store all OpenCVProjects
 
 | Number |  Notebook 	|
 |--------- |---	|
-| 00 | Automatic Number Plate Recognition |
+| 00 | [Automatic Number Plate Recognition](https://github.com/MHidayatz/OpenCVProjects/blob/main/Automatic%20Number%20Plate%20Recognition/Automatic%20Number%20Plate%20Recognition.ipynb) |
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
 
 
 ### 1. Automatic Number Plate Recognition
